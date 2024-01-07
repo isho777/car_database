@@ -106,3 +106,4 @@ public class Car {
 		this.price = price;
 	}
 }
+
